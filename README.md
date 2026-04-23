@@ -2,7 +2,7 @@
 
 ## 📌 Visão Geral
 
-Este projeto tem como objetivo documentar o levantamento de requisitos para implantação de um modelo estruturado de Gestão de TI em uma organização que atualmente possui processos informais e não padronizados.
+Este projeto tem como objetivo documentar o levantamento de requisitos para implantação de um modelo estruturado de Gestão de TI em uma organização que atualmente possui processos informais e não padronizados. A dor maior no momento seria para organização de incidentes, chamados, soluções de problemas e para documentar tudo, registrar todas as tarefas e organizar.
 
 A iniciativa busca alinhar a área de Tecnologia da Informação às estratégias do negócio, promovendo eficiência operacional, governança, controle e melhoria contínua dos serviços de TI.
 
@@ -55,10 +55,8 @@ permite maior maturidade dos processos e melhor entrega de valor.
 
 ## 👥 Stakeholders
 
-- Usuários finais
 - Equipe de suporte técnico
 - Gestores de TI
-- Diretoria
 
 ---
 
@@ -66,9 +64,7 @@ permite maior maturidade dos processos e melhor entrega de valor.
 
 - requisitos/
 - processos/
-- modelos/
 - analise/
-- anexos/
 
 ---
 
